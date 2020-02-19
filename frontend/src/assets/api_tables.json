@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "nome": "ANA HELENA SEIXAS DE CAMPOS",
+        "endereco": "AL DOS ARAPANES, 00881 -62 - MOEMA, SAO PAULO, SP",
+        "tel": "50513895",
+        "especialidade": "PSICOLOGIA"
+      },
+      {
+        "nome": "CLINICA PROF VALDEMAR ORTIZ",
+        "endereco": "R MIN GABRIEL DE R PASSOS, 00500 -CJ 1003 - MOEMA, SAO PAULO, SP",
+        "tel": "50527500",
+        "especialidade": "UROLOGIA"
+      },
+      {
+        "nome": "DRA ANA LUISA HOFLING LIMA",
+        "endereco": "AV IBIJAU, 00331 - MOEMA, SAO PAULO, SP",
+        "tel": "50551177",
+        "especialidade": "OFTALMOLOGIA"
+      },
+      {
+        "nome": "ELIANA STEINMAN",
+        "endereco": "R MIN GABRIEL DE R PASSOS, 00500 -1617 - MOEMA, SAO PAULO, SP",
+        "tel": "50529247",
+        "especialidade": "PROCTOLOGIA"
+      },
+      {
+        "nome": "GYNTEC MEDICINA DA MULHER",
+        "endereco": "AL JAUAPERI, 00732 - MOEMA, SAO PAULO, SP",
+        "tel": "50553831",
+        "especialidade": "GINECOLOGIA"
+      },
+      {
+        "nome": "LUIZILANA SERVICOS MEDICOS",
+        "endereco": "AV MOEMA, 00087 -13 ANDAR/CJ 134 - MOEMA, SAO PAULO, SP",
+        "tel": "50514137",
+        "especialidade": "CARDIOLOGIA"
+      },
+      {
+        "nome": "MANOEL MARTIN FILHO",
+        "endereco": "AL DOS ARAPANES, 00881 -83 - MOEMA, SAO PAULO, SP",
+        "tel": "50550475",
+        "especialidade": "CLINICA MEDICA"
+      },
+      {
+        "nome": "MARTINO Y LANGHI",
+        "endereco": "R MIN GABRIEL DE R PASSOS, 00500 - CJ 1302 - MOEMA, SAO PAULO, SP",
+        "tel": "50511108",
+        "especialidade": "GINECOLOGIA"
+      },
+      {
+        "nome": "CLINICA BABY",
+        "endereco": "R MIN GABRIEL DE R PASSOS, 00650 - CJ 1302 - MOEMA, SAO PAULO, SP",
+        "tel": "50511108",
+        "especialidade": "OBSTETRICIA"
+      },
+      {
+        "nome": "ROBERTO MONTUORI",
+        "endereco": "R MIN GABRIEL DE R PASSOS, 00500 -CJ 1212 - MOEMA, SAO PAULO, SP",
+        "tel": "50561060",
+        "especialidade": "PEDIATRIA"
+      }
+    ]
+}
